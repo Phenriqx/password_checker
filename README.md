@@ -7,7 +7,7 @@
 <p>PT: Projeto simples no qual você pode criar sua própria senha e deixar o programa checar se ela é boa o suficiente ou gerar uma senha aleatória para você, depois inserir ela na base de dados caso você queira.</p>
 
 <ul>
-    <p>Technologies used for the project: </p>
+    <h3>Technologies used for this project: </h3>
     <li>Python</li>
     <li>Sqlite3</li>
 </ul>
